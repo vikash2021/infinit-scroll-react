@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.element {
+  width: 50%;
+  padding: 20px 10px;
+  margin-bottom: 10px;
+  border: 1px solid #0f9d58;
+  border-radius: 8px;
+  font-size: 28px;
+  font-weight: bold;
+  color: #0d8048;
+  background-color: #cfebdd;
+  font-family: Inter;
+}
