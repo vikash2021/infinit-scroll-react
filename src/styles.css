@@ -17,4 +17,8 @@
   color: #0d8048;
   background-color: #cfebdd;
   font-family: Inter;
+  min-height: 100px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }

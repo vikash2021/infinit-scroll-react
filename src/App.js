@@ -20,7 +20,7 @@ const App = () => {
   for (let i = 0; i < count; i++) {
     elementsArray.push(
       <div key={i} className="element">
-        {i}
+        {i + 1}
       </div>
     );
   }
